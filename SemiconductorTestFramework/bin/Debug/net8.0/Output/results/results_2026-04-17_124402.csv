@@ -1,0 +1,20 @@
+TestId,TestName,Status,StartTime,EndTime,DurationMs,ErrorMessage
+TEMP_001,Low Temperature Operation (-40°C),Passed,2026-04-17 12:43:57.324,2026-04-17 12:43:57.361,36,
+SIGNAL_002,Mid Frequency Stability (200MHz),Failed,2026-04-17 12:43:57.324,2026-04-17 12:43:57.386,62,One or more errors occurred. (Frequency jitter exceeded tolerance at 200MHz)
+SIGNAL_003,High Frequency Stability (500MHz),Failed,2026-04-17 12:43:57.324,2026-04-17 12:43:57.386,62,One or more errors occurred. (Frequency jitter exceeded tolerance at 500MHz)
+SIGNAL_001,Low Frequency Stability (50MHz),Failed,2026-04-17 12:43:57.324,2026-04-17 12:43:57.387,62,One or more errors occurred. (Frequency jitter exceeded tolerance at 50MHz)
+SYS_001,Register Write/Read Test,Passed,2026-04-17 12:43:57.324,2026-04-17 12:43:57.387,63,
+VOLT_001,Minimum Supply Voltage (2.7V),Passed,2026-04-17 12:43:57.324,2026-04-17 12:43:57.388,63,
+TEMP_002,Room Temperature Operation (25°C),Passed,2026-04-17 12:43:57.324,2026-04-17 12:43:57.388,64,
+VOLT_002,Nominal Supply Voltage (3.3V),Passed,2026-04-17 12:43:57.324,2026-04-17 12:43:57.389,64,
+SYS_004,Multi-Register Operations,Passed,2026-04-17 12:43:57.325,2026-04-17 12:43:57.389,64,
+TEMP_003,High Temperature Operation (125°C),Passed,2026-04-17 12:43:57.324,2026-04-17 12:43:57.389,65,
+VOLT_003,Maximum Supply Voltage (5.0V),Passed,2026-04-17 12:43:57.324,2026-04-17 12:43:57.390,65,
+SYS_002,Device Status Monitoring,Passed,2026-04-17 12:43:57.324,2026-04-17 12:43:57.390,65,
+POWER_002,Power-Off Sequence,Passed,2026-04-17 12:43:57.324,2026-04-17 12:43:57.468,143,
+POWER_001,Power-On Sequence,Passed,2026-04-17 12:43:57.324,2026-04-17 12:43:57.468,143,
+POWER_003,Current Draw Under Load,Passed,2026-04-17 12:43:57.324,2026-04-17 12:43:58.067,743,
+VOLT_004,Voltage Ramp Test,Passed,2026-04-17 12:43:57.324,2026-04-17 12:43:58.083,759,
+TEMP_004,Temperature Cycling Test,Passed,2026-04-17 12:43:57.324,2026-04-17 12:43:58.494,1170,
+POWER_004,Power Cycling Test,Passed,2026-04-17 12:43:57.324,2026-04-17 12:43:58.649,1325,
+SYS_003,Continuous Operation Stress Test,Passed,2026-04-17 12:43:57.325,2026-04-17 12:44:02.612,5287,

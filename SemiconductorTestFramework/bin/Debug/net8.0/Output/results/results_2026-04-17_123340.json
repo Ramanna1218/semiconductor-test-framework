@@ -1,0 +1,173 @@
+[
+  {
+    "TestId": "SYS_002",
+    "TestName": "Device Status Monitoring",
+    "Status": "Passed",
+    "StartTime": "2026-04-17T12:33:34.499177-04:00",
+    "EndTime": "2026-04-17T12:33:34.5054171-04:00",
+    "DurationMs": 6,
+    "ErrorMessage": null
+  },
+  {
+    "TestId": "SYS_001",
+    "TestName": "Register Write/Read Test",
+    "Status": "Passed",
+    "StartTime": "2026-04-17T12:33:34.4990625-04:00",
+    "EndTime": "2026-04-17T12:33:34.5071227-04:00",
+    "DurationMs": 8,
+    "ErrorMessage": null
+  },
+  {
+    "TestId": "TEMP_003",
+    "TestName": "High Temperature Operation (125°C)",
+    "Status": "Passed",
+    "StartTime": "2026-04-17T12:33:34.4990723-04:00",
+    "EndTime": "2026-04-17T12:33:34.50798-04:00",
+    "DurationMs": 8,
+    "ErrorMessage": null
+  },
+  {
+    "TestId": "TEMP_001",
+    "TestName": "Low Temperature Operation (-40°C)",
+    "Status": "Passed",
+    "StartTime": "2026-04-17T12:33:34.4992266-04:00",
+    "EndTime": "2026-04-17T12:33:34.5083269-04:00",
+    "DurationMs": 9,
+    "ErrorMessage": null
+  },
+  {
+    "TestId": "TEMP_002",
+    "TestName": "Room Temperature Operation (25°C)",
+    "Status": "Passed",
+    "StartTime": "2026-04-17T12:33:34.4994408-04:00",
+    "EndTime": "2026-04-17T12:33:34.508697-04:00",
+    "DurationMs": 9,
+    "ErrorMessage": null
+  },
+  {
+    "TestId": "VOLT_001",
+    "TestName": "Minimum Supply Voltage (2.7V)",
+    "Status": "Passed",
+    "StartTime": "2026-04-17T12:33:34.4992332-04:00",
+    "EndTime": "2026-04-17T12:33:34.5089187-04:00",
+    "DurationMs": 9,
+    "ErrorMessage": null
+  },
+  {
+    "TestId": "SYS_004",
+    "TestName": "Multi-Register Operations",
+    "Status": "Passed",
+    "StartTime": "2026-04-17T12:33:34.4993869-04:00",
+    "EndTime": "2026-04-17T12:33:34.5092622-04:00",
+    "DurationMs": 9,
+    "ErrorMessage": null
+  },
+  {
+    "TestId": "VOLT_002",
+    "TestName": "Nominal Supply Voltage (3.3V)",
+    "Status": "Passed",
+    "StartTime": "2026-04-17T12:33:34.4989778-04:00",
+    "EndTime": "2026-04-17T12:33:34.5095186-04:00",
+    "DurationMs": 10,
+    "ErrorMessage": null
+  },
+  {
+    "TestId": "VOLT_003",
+    "TestName": "Maximum Supply Voltage (5.0V)",
+    "Status": "Passed",
+    "StartTime": "2026-04-17T12:33:34.4994446-04:00",
+    "EndTime": "2026-04-17T12:33:34.5097466-04:00",
+    "DurationMs": 10,
+    "ErrorMessage": null
+  },
+  {
+    "TestId": "SIGNAL_003",
+    "TestName": "High Frequency Stability (500MHz)",
+    "Status": "Failed",
+    "StartTime": "2026-04-17T12:33:34.4994721-04:00",
+    "EndTime": "2026-04-17T12:33:34.5987647-04:00",
+    "DurationMs": 99,
+    "ErrorMessage": "One or more errors occurred. (Frequency jitter exceeded tolerance at 500MHz)"
+  },
+  {
+    "TestId": "SIGNAL_001",
+    "TestName": "Low Frequency Stability (50MHz)",
+    "Status": "Failed",
+    "StartTime": "2026-04-17T12:33:34.4995285-04:00",
+    "EndTime": "2026-04-17T12:33:34.5996746-04:00",
+    "DurationMs": 100,
+    "ErrorMessage": "One or more errors occurred. (Frequency jitter exceeded tolerance at 50MHz)"
+  },
+  {
+    "TestId": "SIGNAL_002",
+    "TestName": "Mid Frequency Stability (200MHz)",
+    "Status": "Failed",
+    "StartTime": "2026-04-17T12:33:34.4992106-04:00",
+    "EndTime": "2026-04-17T12:33:34.5999863-04:00",
+    "DurationMs": 100,
+    "ErrorMessage": "One or more errors occurred. (Frequency jitter exceeded tolerance at 200MHz)"
+  },
+  {
+    "TestId": "POWER_001",
+    "TestName": "Power-On Sequence",
+    "Status": "Passed",
+    "StartTime": "2026-04-17T12:33:34.4995031-04:00",
+    "EndTime": "2026-04-17T12:33:34.6161475-04:00",
+    "DurationMs": 116,
+    "ErrorMessage": null
+  },
+  {
+    "TestId": "POWER_002",
+    "TestName": "Power-Off Sequence",
+    "Status": "Passed",
+    "StartTime": "2026-04-17T12:33:34.4994657-04:00",
+    "EndTime": "2026-04-17T12:33:34.6165412-04:00",
+    "DurationMs": 117,
+    "ErrorMessage": null
+  },
+  {
+    "TestId": "POWER_003",
+    "TestName": "Current Draw Under Load",
+    "Status": "Passed",
+    "StartTime": "2026-04-17T12:33:34.4992469-04:00",
+    "EndTime": "2026-04-17T12:33:35.1963675-04:00",
+    "DurationMs": 697,
+    "ErrorMessage": null
+  },
+  {
+    "TestId": "VOLT_004",
+    "TestName": "Voltage Ramp Test",
+    "Status": "Passed",
+    "StartTime": "2026-04-17T12:33:34.4989686-04:00",
+    "EndTime": "2026-04-17T12:33:35.2586469-04:00",
+    "DurationMs": 759,
+    "ErrorMessage": null
+  },
+  {
+    "TestId": "TEMP_004",
+    "TestName": "Temperature Cycling Test",
+    "Status": "Passed",
+    "StartTime": "2026-04-17T12:33:34.4994817-04:00",
+    "EndTime": "2026-04-17T12:33:35.6017789-04:00",
+    "DurationMs": 1102,
+    "ErrorMessage": null
+  },
+  {
+    "TestId": "POWER_004",
+    "TestName": "Power Cycling Test",
+    "Status": "Passed",
+    "StartTime": "2026-04-17T12:33:34.4989671-04:00",
+    "EndTime": "2026-04-17T12:33:35.758977-04:00",
+    "DurationMs": 1260,
+    "ErrorMessage": null
+  },
+  {
+    "TestId": "SYS_003",
+    "TestName": "Continuous Operation Stress Test",
+    "Status": "Passed",
+    "StartTime": "2026-04-17T12:33:34.4992932-04:00",
+    "EndTime": "2026-04-17T12:33:39.9385769-04:00",
+    "DurationMs": 5439,
+    "ErrorMessage": null
+  }
+]

@@ -1,0 +1,17 @@
+C:\Users\manoh\Desktop\SemiconductorTestFramework\SemiconductorTestFramework\bin\Debug\net8.0\SemiconductorTestFramework.exe
+C:\Users\manoh\Desktop\SemiconductorTestFramework\SemiconductorTestFramework\bin\Debug\net8.0\SemiconductorTestFramework.deps.json
+C:\Users\manoh\Desktop\SemiconductorTestFramework\SemiconductorTestFramework\bin\Debug\net8.0\SemiconductorTestFramework.runtimeconfig.json
+C:\Users\manoh\Desktop\SemiconductorTestFramework\SemiconductorTestFramework\bin\Debug\net8.0\SemiconductorTestFramework.dll
+C:\Users\manoh\Desktop\SemiconductorTestFramework\SemiconductorTestFramework\bin\Debug\net8.0\SemiconductorTestFramework.pdb
+C:\Users\manoh\Desktop\SemiconductorTestFramework\SemiconductorTestFramework\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\manoh\Desktop\SemiconductorTestFramework\SemiconductorTestFramework\obj\Debug\net8.0\SemiconductorTestFramework.csproj.AssemblyReference.cache
+C:\Users\manoh\Desktop\SemiconductorTestFramework\SemiconductorTestFramework\obj\Debug\net8.0\SemiconductorTestFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manoh\Desktop\SemiconductorTestFramework\SemiconductorTestFramework\obj\Debug\net8.0\SemiconductorTestFramework.AssemblyInfoInputs.cache
+C:\Users\manoh\Desktop\SemiconductorTestFramework\SemiconductorTestFramework\obj\Debug\net8.0\SemiconductorTestFramework.AssemblyInfo.cs
+C:\Users\manoh\Desktop\SemiconductorTestFramework\SemiconductorTestFramework\obj\Debug\net8.0\SemiconductorTestFramework.csproj.CoreCompileInputs.cache
+C:\Users\manoh\Desktop\SemiconductorTestFramework\SemiconductorTestFramework\obj\Debug\net8.0\Semicond.64B3CC99.Up2Date
+C:\Users\manoh\Desktop\SemiconductorTestFramework\SemiconductorTestFramework\obj\Debug\net8.0\SemiconductorTestFramework.dll
+C:\Users\manoh\Desktop\SemiconductorTestFramework\SemiconductorTestFramework\obj\Debug\net8.0\refint\SemiconductorTestFramework.dll
+C:\Users\manoh\Desktop\SemiconductorTestFramework\SemiconductorTestFramework\obj\Debug\net8.0\SemiconductorTestFramework.pdb
+C:\Users\manoh\Desktop\SemiconductorTestFramework\SemiconductorTestFramework\obj\Debug\net8.0\SemiconductorTestFramework.genruntimeconfig.cache
+C:\Users\manoh\Desktop\SemiconductorTestFramework\SemiconductorTestFramework\obj\Debug\net8.0\ref\SemiconductorTestFramework.dll

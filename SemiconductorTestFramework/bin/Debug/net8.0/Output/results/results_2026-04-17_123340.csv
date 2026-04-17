@@ -1,0 +1,20 @@
+TestId,TestName,Status,StartTime,EndTime,DurationMs,ErrorMessage
+SYS_002,Device Status Monitoring,Passed,2026-04-17 12:33:34.499,2026-04-17 12:33:34.505,6,
+SYS_001,Register Write/Read Test,Passed,2026-04-17 12:33:34.499,2026-04-17 12:33:34.507,8,
+TEMP_003,High Temperature Operation (125°C),Passed,2026-04-17 12:33:34.499,2026-04-17 12:33:34.507,8,
+TEMP_001,Low Temperature Operation (-40°C),Passed,2026-04-17 12:33:34.499,2026-04-17 12:33:34.508,9,
+TEMP_002,Room Temperature Operation (25°C),Passed,2026-04-17 12:33:34.499,2026-04-17 12:33:34.508,9,
+VOLT_001,Minimum Supply Voltage (2.7V),Passed,2026-04-17 12:33:34.499,2026-04-17 12:33:34.508,9,
+SYS_004,Multi-Register Operations,Passed,2026-04-17 12:33:34.499,2026-04-17 12:33:34.509,9,
+VOLT_002,Nominal Supply Voltage (3.3V),Passed,2026-04-17 12:33:34.498,2026-04-17 12:33:34.509,10,
+VOLT_003,Maximum Supply Voltage (5.0V),Passed,2026-04-17 12:33:34.499,2026-04-17 12:33:34.509,10,
+SIGNAL_003,High Frequency Stability (500MHz),Failed,2026-04-17 12:33:34.499,2026-04-17 12:33:34.598,99,One or more errors occurred. (Frequency jitter exceeded tolerance at 500MHz)
+SIGNAL_001,Low Frequency Stability (50MHz),Failed,2026-04-17 12:33:34.499,2026-04-17 12:33:34.599,100,One or more errors occurred. (Frequency jitter exceeded tolerance at 50MHz)
+SIGNAL_002,Mid Frequency Stability (200MHz),Failed,2026-04-17 12:33:34.499,2026-04-17 12:33:34.599,100,One or more errors occurred. (Frequency jitter exceeded tolerance at 200MHz)
+POWER_001,Power-On Sequence,Passed,2026-04-17 12:33:34.499,2026-04-17 12:33:34.616,116,
+POWER_002,Power-Off Sequence,Passed,2026-04-17 12:33:34.499,2026-04-17 12:33:34.616,117,
+POWER_003,Current Draw Under Load,Passed,2026-04-17 12:33:34.499,2026-04-17 12:33:35.196,697,
+VOLT_004,Voltage Ramp Test,Passed,2026-04-17 12:33:34.498,2026-04-17 12:33:35.258,759,
+TEMP_004,Temperature Cycling Test,Passed,2026-04-17 12:33:34.499,2026-04-17 12:33:35.601,1102,
+POWER_004,Power Cycling Test,Passed,2026-04-17 12:33:34.498,2026-04-17 12:33:35.758,1260,
+SYS_003,Continuous Operation Stress Test,Passed,2026-04-17 12:33:34.499,2026-04-17 12:33:39.938,5439,

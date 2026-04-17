@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D158A97F-6285-4C2C-A0A7-812D2C809FBE}|SemiconductorTestFramework\\SemiconductorTestFramework.csproj|c:\\users\\manoh\\desktop\\semiconductortestframework\\semiconductortestframework\\core\\testexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D158A97F-6285-4C2C-A0A7-812D2C809FBE}|SemiconductorTestFramework\\SemiconductorTestFramework.csproj|solutionrelative:semiconductortestframework\\core\\testexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D158A97F-6285-4C2C-A0A7-812D2C809FBE}|SemiconductorTestFramework\\SemiconductorTestFramework.csproj|c:\\users\\manoh\\desktop\\semiconductortestframework\\semiconductortestframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D158A97F-6285-4C2C-A0A7-812D2C809FBE}|SemiconductorTestFramework\\SemiconductorTestFramework.csproj|solutionrelative:semiconductortestframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D158A97F-6285-4C2C-A0A7-812D2C809FBE}|SemiconductorTestFramework\\SemiconductorTestFramework.csproj|c:\\users\\manoh\\desktop\\semiconductortestframework\\semiconductortestframework\\testsuites\\systemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D158A97F-6285-4C2C-A0A7-812D2C809FBE}|SemiconductorTestFramework\\SemiconductorTestFramework.csproj|solutionrelative:semiconductortestframework\\testsuites\\systemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D158A97F-6285-4C2C-A0A7-812D2C809FBE}|SemiconductorTestFramework\\SemiconductorTestFramework.csproj|c:\\users\\manoh\\desktop\\semiconductortestframework\\semiconductortestframework\\testsuites\\powertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D158A97F-6285-4C2C-A0A7-812D2C809FBE}|SemiconductorTestFramework\\SemiconductorTestFramework.csproj|solutionrelative:semiconductortestframework\\testsuites\\powertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D158A97F-6285-4C2C-A0A7-812D2C809FBE}|SemiconductorTestFramework\\SemiconductorTestFramework.csproj|c:\\users\\manoh\\desktop\\semiconductortestframework\\semiconductortestframework\\testsuites\\signalintegritytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D158A97F-6285-4C2C-A0A7-812D2C809FBE}|SemiconductorTestFramework\\SemiconductorTestFramework.csproj|solutionrelative:semiconductortestframework\\testsuites\\signalintegritytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D158A97F-6285-4C2C-A0A7-812D2C809FBE}|SemiconductorTestFramework\\SemiconductorTestFramework.csproj|c:\\users\\manoh\\desktop\\semiconductortestframework\\semiconductortestframework\\testsuites\\voltagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D158A97F-6285-4C2C-A0A7-812D2C809FBE}|SemiconductorTestFramework\\SemiconductorTestFramework.csproj|solutionrelative:semiconductortestframework\\testsuites\\voltagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D158A97F-6285-4C2C-A0A7-812D2C809FBE}|SemiconductorTestFramework\\SemiconductorTestFramework.csproj|c:\\users\\manoh\\desktop\\semiconductortestframework\\semiconductortestframework\\testsuites\\temperaturetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D158A97F-6285-4C2C-A0A7-812D2C809FBE}|SemiconductorTestFramework\\SemiconductorTestFramework.csproj|solutionrelative:semiconductortestframework\\testsuites\\temperaturetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D158A97F-6285-4C2C-A0A7-812D2C809FBE}|SemiconductorTestFramework\\SemiconductorTestFramework.csproj|c:\\users\\manoh\\desktop\\semiconductortestframework\\semiconductortestframework\\utilities\\performancemonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D158A97F-6285-4C2C-A0A7-812D2C809FBE}|SemiconductorTestFramework\\SemiconductorTestFramework.csproj|solutionrelative:semiconductortestframework\\utilities\\performancemonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D158A97F-6285-4C2C-A0A7-812D2C809FBE}|SemiconductorTestFramework\\SemiconductorTestFramework.csproj|c:\\users\\manoh\\desktop\\semiconductortestframework\\semiconductortestframework\\utilities\\resulttracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D158A97F-6285-4C2C-A0A7-812D2C809FBE}|SemiconductorTestFramework\\SemiconductorTestFramework.csproj|solutionrelative:semiconductortestframework\\utilities\\resulttracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D158A97F-6285-4C2C-A0A7-812D2C809FBE}|SemiconductorTestFramework\\SemiconductorTestFramework.csproj|c:\\users\\manoh\\desktop\\semiconductortestframework\\semiconductortestframework\\utilities\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D158A97F-6285-4C2C-A0A7-812D2C809FBE}|SemiconductorTestFramework\\SemiconductorTestFramework.csproj|solutionrelative:semiconductortestframework\\utilities\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D158A97F-6285-4C2C-A0A7-812D2C809FBE}|SemiconductorTestFramework\\SemiconductorTestFramework.csproj|c:\\users\\manoh\\desktop\\semiconductortestframework\\semiconductortestframework\\core\\hardwaresimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D158A97F-6285-4C2C-A0A7-812D2C809FBE}|SemiconductorTestFramework\\SemiconductorTestFramework.csproj|solutionrelative:semiconductortestframework\\core\\hardwaresimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D158A97F-6285-4C2C-A0A7-812D2C809FBE}|SemiconductorTestFramework\\SemiconductorTestFramework.csproj|c:\\users\\manoh\\desktop\\semiconductortestframework\\semiconductortestframework\\core\\testresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D158A97F-6285-4C2C-A0A7-812D2C809FBE}|SemiconductorTestFramework\\SemiconductorTestFramework.csproj|solutionrelative:semiconductortestframework\\core\\testresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D158A97F-6285-4C2C-A0A7-812D2C809FBE}|SemiconductorTestFramework\\SemiconductorTestFramework.csproj|c:\\users\\manoh\\desktop\\semiconductortestframework\\semiconductortestframework\\core\\testcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D158A97F-6285-4C2C-A0A7-812D2C809FBE}|SemiconductorTestFramework\\SemiconductorTestFramework.csproj|solutionrelative:semiconductortestframework\\core\\testcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SystemTests.cs",
+              "DocumentMoniker": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\SemiconductorTestFramework\\TestSuites\\SystemTests.cs",
+              "RelativeDocumentMoniker": "SemiconductorTestFramework\\TestSuites\\SystemTests.cs",
+              "ToolTip": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\SemiconductorTestFramework\\TestSuites\\SystemTests.cs",
+              "RelativeToolTip": "SemiconductorTestFramework\\TestSuites\\SystemTests.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:28:39.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PowerTests.cs",
+              "DocumentMoniker": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\SemiconductorTestFramework\\TestSuites\\PowerTests.cs",
+              "RelativeDocumentMoniker": "SemiconductorTestFramework\\TestSuites\\PowerTests.cs",
+              "ToolTip": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\SemiconductorTestFramework\\TestSuites\\PowerTests.cs",
+              "RelativeToolTip": "SemiconductorTestFramework\\TestSuites\\PowerTests.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:27:57.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignalIntegrityTests.cs",
+              "DocumentMoniker": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\SemiconductorTestFramework\\TestSuites\\SignalIntegrityTests.cs",
+              "RelativeDocumentMoniker": "SemiconductorTestFramework\\TestSuites\\SignalIntegrityTests.cs",
+              "ToolTip": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\SemiconductorTestFramework\\TestSuites\\SignalIntegrityTests.cs",
+              "RelativeToolTip": "SemiconductorTestFramework\\TestSuites\\SignalIntegrityTests.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:27:15.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VoltageTests.cs",
+              "DocumentMoniker": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\SemiconductorTestFramework\\TestSuites\\VoltageTests.cs",
+              "RelativeDocumentMoniker": "SemiconductorTestFramework\\TestSuites\\VoltageTests.cs",
+              "ToolTip": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\SemiconductorTestFramework\\TestSuites\\VoltageTests.cs",
+              "RelativeToolTip": "SemiconductorTestFramework\\TestSuites\\VoltageTests.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:26:27.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\SemiconductorTestFramework\\Program.cs",
+              "RelativeDocumentMoniker": "SemiconductorTestFramework\\Program.cs",
+              "ToolTip": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\SemiconductorTestFramework\\Program.cs",
+              "RelativeToolTip": "SemiconductorTestFramework\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwDYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:11:36.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\SemiconductorTestFramework\\Core\\TestExecutor.cs",
+              "RelativeDocumentMoniker": "SemiconductorTestFramework\\Core\\TestExecutor.cs",
+              "ToolTip": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\SemiconductorTestFramework\\Core\\TestExecutor.cs",
+              "RelativeToolTip": "SemiconductorTestFramework\\Core\\TestExecutor.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAMwEAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:20:51.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TemperatureTests.cs",
+              "DocumentMoniker": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\SemiconductorTestFramework\\TestSuites\\TemperatureTests.cs",
+              "RelativeDocumentMoniker": "SemiconductorTestFramework\\TestSuites\\TemperatureTests.cs",
+              "ToolTip": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\SemiconductorTestFramework\\TestSuites\\TemperatureTests.cs",
+              "RelativeToolTip": "SemiconductorTestFramework\\TestSuites\\TemperatureTests.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:25:44.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PerformanceMonitor.cs",
+              "DocumentMoniker": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\SemiconductorTestFramework\\Utilities\\PerformanceMonitor.cs",
+              "RelativeDocumentMoniker": "SemiconductorTestFramework\\Utilities\\PerformanceMonitor.cs",
+              "ToolTip": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\SemiconductorTestFramework\\Utilities\\PerformanceMonitor.cs",
+              "RelativeToolTip": "SemiconductorTestFramework\\Utilities\\PerformanceMonitor.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:24:19.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResultTracker.cs",
+              "DocumentMoniker": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\SemiconductorTestFramework\\Utilities\\ResultTracker.cs",
+              "RelativeDocumentMoniker": "SemiconductorTestFramework\\Utilities\\ResultTracker.cs",
+              "ToolTip": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\SemiconductorTestFramework\\Utilities\\ResultTracker.cs",
+              "RelativeToolTip": "SemiconductorTestFramework\\Utilities\\ResultTracker.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:22:59.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\SemiconductorTestFramework\\Utilities\\Logger.cs",
+              "RelativeDocumentMoniker": "SemiconductorTestFramework\\Utilities\\Logger.cs",
+              "ToolTip": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\SemiconductorTestFramework\\Utilities\\Logger.cs",
+              "RelativeToolTip": "SemiconductorTestFramework\\Utilities\\Logger.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA5wDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:22:02.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HardwareSimulator.cs",
+              "DocumentMoniker": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\SemiconductorTestFramework\\Core\\HardwareSimulator.cs",
+              "RelativeDocumentMoniker": "SemiconductorTestFramework\\Core\\HardwareSimulator.cs",
+              "ToolTip": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\SemiconductorTestFramework\\Core\\HardwareSimulator.cs",
+              "RelativeToolTip": "SemiconductorTestFramework\\Core\\HardwareSimulator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:19:49.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestResult.cs",
+              "DocumentMoniker": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\SemiconductorTestFramework\\Core\\TestResult.cs",
+              "RelativeDocumentMoniker": "SemiconductorTestFramework\\Core\\TestResult.cs",
+              "ToolTip": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\SemiconductorTestFramework\\Core\\TestResult.cs",
+              "RelativeToolTip": "SemiconductorTestFramework\\Core\\TestResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:18:35.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TestCase.cs",
+              "DocumentMoniker": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\SemiconductorTestFramework\\Core\\TestCase.cs",
+              "RelativeDocumentMoniker": "SemiconductorTestFramework\\Core\\TestCase.cs",
+              "ToolTip": "C:\\Users\\manoh\\Desktop\\SemiconductorTestFramework\\SemiconductorTestFramework\\Core\\TestCase.cs",
+              "RelativeToolTip": "SemiconductorTestFramework\\Core\\TestCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:16:10.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

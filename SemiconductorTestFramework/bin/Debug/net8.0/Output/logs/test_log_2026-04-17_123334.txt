@@ -1,0 +1,48 @@
+[2026-04-17 12:33:34.454] [Info] Test framework initialized
+[2026-04-17 12:33:34.461] [Info] Log file: Output/logs\test_log_2026-04-17_123334.txt
+[2026-04-17 12:33:34.465] [Info] 4 tests registered
+[2026-04-17 12:33:34.465] [Info] 4 tests registered
+[2026-04-17 12:33:34.466] [Info] 3 tests registered
+[2026-04-17 12:33:34.466] [Info] 4 tests registered
+[2026-04-17 12:33:34.467] [Info] 4 tests registered
+[2026-04-17 12:33:34.471] [Info] Starting test execution - Total tests: 19
+[2026-04-17 12:33:34.499] [Debug] [START] Voltage Ramp Test
+[2026-04-17 12:33:34.499] [Debug] [START] Power Cycling Test
+[2026-04-17 12:33:34.499] [Debug] [START] High Temperature Operation (125°C)
+[2026-04-17 12:33:34.499] [Debug] [START] Register Write/Read Test
+[2026-04-17 12:33:34.499] [Debug] [START] Device Status Monitoring
+[2026-04-17 12:33:34.499] [Debug] [START] Mid Frequency Stability (200MHz)
+[2026-04-17 12:33:34.499] [Debug] [START] Low Temperature Operation (-40°C)
+[2026-04-17 12:33:34.499] [Debug] [START] Minimum Supply Voltage (2.7V)
+[2026-04-17 12:33:34.499] [Debug] [START] Current Draw Under Load
+[2026-04-17 12:33:34.499] [Debug] [START] Continuous Operation Stress Test
+[2026-04-17 12:33:34.499] [Debug] [START] Multi-Register Operations
+[2026-04-17 12:33:34.499] [Debug] [START] Maximum Supply Voltage (5.0V)
+[2026-04-17 12:33:34.499] [Debug] [START] High Frequency Stability (500MHz)
+[2026-04-17 12:33:34.499] [Debug] [START] Temperature Cycling Test
+[2026-04-17 12:33:34.505] [Info] [PASS] Device Status Monitoring
+[2026-04-17 12:33:34.499] [Debug] [START] Room Temperature Operation (25°C)
+[2026-04-17 12:33:34.499] [Debug] [START] Power-Off Sequence
+[2026-04-17 12:33:34.499] [Debug] [START] Low Frequency Stability (50MHz)
+[2026-04-17 12:33:34.499] [Debug] [START] Power-On Sequence
+[2026-04-17 12:33:34.499] [Debug] [START] Nominal Supply Voltage (3.3V)
+[2026-04-17 12:33:34.501] [Info] [PASS] Register Write/Read Test
+[2026-04-17 12:33:34.501] [Info] [PASS] High Temperature Operation (125°C)
+[2026-04-17 12:33:34.505] [Info] [PASS] Low Temperature Operation (-40°C)
+[2026-04-17 12:33:34.508] [Info] [PASS] Room Temperature Operation (25°C)
+[2026-04-17 12:33:34.505] [Info] [PASS] Minimum Supply Voltage (2.7V)
+[2026-04-17 12:33:34.508] [Info] [PASS] Multi-Register Operations
+[2026-04-17 12:33:34.508] [Info] [PASS] Nominal Supply Voltage (3.3V)
+[2026-04-17 12:33:34.508] [Info] [PASS] Maximum Supply Voltage (5.0V)
+[2026-04-17 12:33:34.597] [Error] [FAIL] High Frequency Stability (500MHz): One or more errors occurred. (Frequency jitter exceeded tolerance at 500MHz)
+[2026-04-17 12:33:34.597] [Error] [FAIL] Low Frequency Stability (50MHz): One or more errors occurred. (Frequency jitter exceeded tolerance at 50MHz)
+[2026-04-17 12:33:34.597] [Error] [FAIL] Mid Frequency Stability (200MHz): One or more errors occurred. (Frequency jitter exceeded tolerance at 200MHz)
+[2026-04-17 12:33:34.615] [Info] [PASS] Power-On Sequence
+[2026-04-17 12:33:34.615] [Info] [PASS] Power-Off Sequence
+[2026-04-17 12:33:35.195] [Info] [PASS] Current Draw Under Load
+[2026-04-17 12:33:35.257] [Info] [PASS] Voltage Ramp Test
+[2026-04-17 12:33:35.600] [Info] [PASS] Temperature Cycling Test
+[2026-04-17 12:33:35.758] [Info] [PASS] Power Cycling Test
+[2026-04-17 12:33:39.937] [Info] [PASS] Continuous Operation Stress Test
+[2026-04-17 12:33:39.939] [Info] Test execution completed in 5467ms
+[2026-04-17 12:33:40.298] [Info] Test results saved to: Output/results
